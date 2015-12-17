@@ -1,19 +1,4 @@
-name: ChefLayugTravels
-favicon: null
-layout_spectrum: 0.6536301437299699
-typography_spectrum: 0.02906407229602337
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#17BEBB'
@@ -21,8 +6,13 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.8537986828014255
-  lightness: 0.6617868065368384
-  saturation: 0.9800408193841577
-  rhythmicContrast: 0.7570723383687437
+  brandStrength: 0.677927
+  lightness: 0.996621
+  rhythmicContrast: 0.515765
+  saturation: 0.495495
+cta: {}
+layout_spectrum: 0.6536301437299699
+name: ChefLayugTravels
+opengraph: {}
 purpose: []
+typography_spectrum: 0.02906407229602337
